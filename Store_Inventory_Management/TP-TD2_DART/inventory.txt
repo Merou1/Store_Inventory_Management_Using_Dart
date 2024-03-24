@@ -1,0 +1,6 @@
+{"id":1,"name":"Laptop","price":999.99}
+{"id":2,"name":"Smartphone","price":599.99}
+{"id":3,"name":"Headphones","price":79.99}
+{"id":4,"name":"Tablet","price":399.99}
+{"id":5,"name":"Camera","price":299.99}
+{"id":6,"name":"Keyboard","price":49.99}
